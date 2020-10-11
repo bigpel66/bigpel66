@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bigpel66&repo=github-readme-stats&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![BIGPEL's github stats](https://github-readme-stats.vercel.app/api?username=bigpel66)](https://github.com/anuraghazra/github-readme-stats)
 </div>
