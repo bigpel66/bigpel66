@@ -6,6 +6,6 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bigpel66&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bigpel66)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
