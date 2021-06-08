@@ -1,10 +1,11 @@
-<div align="center">
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bigpel66)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<table><tr>
+	<td valign="top" width="50%">
+		<img src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true" style="height: 150px"/>
+	</td>
+	<td valign="top" width="50%">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&hide_border=true&layout=compact" style="height: 150px"/>
+	</td>
+</tr></table>
 
 <div style="display:flex" align="center">
 
