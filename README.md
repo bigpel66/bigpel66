@@ -29,6 +29,6 @@
 <div style="display:flex" align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbigpel66&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat&logo=stackoverflow&logoColor=white&link=https://bigpel66.oopy.io/)](https://bigpel66.oopy.io)
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-gray?style=flat&logo=stackoverflow&logoColor=white&link=https://bigpel66.oopy.io/)](https://bigpel66.oopy.io)
 
 </div>
