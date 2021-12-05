@@ -19,8 +19,8 @@
 <br/>
 
 ## 2) Status
-<img src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true" style="width: 450px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&hide_border=true&layout=compact" style="width: 450px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&hide_border=true&layout=compact" style="width: 100%"/>
 
 <br/>
 
