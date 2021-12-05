@@ -1,11 +1,11 @@
-<table><tr>
-	<td valign="top" width="50%">
-		<img src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true" style="height: 150px"/>
-	</td>
-	<td valign="top" width="50%">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&hide_border=true&layout=compact" style="height: 150px"/>
-	</td>
-</tr></table>
+<br valign="top" width="100%">
+	<img src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true" style="width: 300px height: 150px"/>
+</br>
+<br valign="top" width="100%">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&hide_border=true&layout=compact" style="width: 300px height: 150px"/>
+</br>
+
+<br/>
 
 <div style="display:flex" align="center">
 
