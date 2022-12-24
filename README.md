@@ -7,9 +7,9 @@
 	Values of Why more than Anything
 
 ### Want to be a ...
-	Software Engineer
-	Server Engineer
-	Back-End Engineer
+	Software Developer
+	Server Developer
+	Back-End Developer
 
 ### I am a ...
 	Newbie.Dev.
