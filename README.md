@@ -12,7 +12,7 @@
 	Back-End Developer
 
 ### I am a ...
-	Newbie.Dev.
+	2nd Year. Lead Back-End Dev. Oli.
 	Student. Comp-Sci. Korea Univ.
 	3rd-Term Cadet. 42 Seoul.
 
