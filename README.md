@@ -3,6 +3,7 @@
 ### Aim for ...
 	Clean Code
 	Readable Code
+	Object-Clear Code
 	Well-Structured Code
 	Values of Why more than Anything
 
@@ -10,9 +11,11 @@
 	Software Developer
 	Server Developer
 	Back-End Developer
+	Cloud Friendly Developer
 
 ### I am a ...
-	2nd Year. Lead Back-End Dev. Oli.
+	Part-Time. Back-End Dev. Doeat.
+	Former. Lead Back-End Dev. Oli.
 	Student. Comp-Sci. Korea Univ.
 	3rd-Term Cadet. 42 Seoul.
 
