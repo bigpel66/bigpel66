@@ -14,7 +14,6 @@
 	Cloud Friendly Developer
 
 ### I am a ...
-	Part-Time. Back-End Dev. Doeat.
 	Former. Lead Back-End Dev. Oli.
 	Student. Comp-Sci. Korea Univ.
 	3rd-Term Cadet. 42 Seoul.
