@@ -1,4 +1,15 @@
 # BIGPEL a.k.a jseo
+
+I'm opened to work now.
+
+Especially interested in Mobility Industry, I'm currently using C++ more than others.
+
+Since March 16th 2023, I'm focusing on problem solving.
+
+(2023-03-16 ~ 2023-05-10 Programmers / Rating 1800++ 400 problems)
+
+(2023-05-11 ~ ongoing BOJ / Rating 1300++ 300 problems)
+
 ## 1) 👋 Good to See You 👋
 ### Aim for ...
 	Clean Code
