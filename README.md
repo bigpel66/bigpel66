@@ -10,8 +10,13 @@ Since March 16th 2023, I'm focusing on problem solving.
 
 (2023-05-11 ~ ongoing BOJ / Rating 1300++ 300 problems)
 
+<div style="display:flex" align="center">
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66)](https://solved.ac/bigpel66)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark)
+
+</div>
 
 ## 1) 👋 Good to See You 👋
 ### Aim for ...
