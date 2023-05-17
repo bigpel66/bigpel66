@@ -12,9 +12,8 @@ Since March 16th 2023, I'm focusing on problem solving.
 
 <div style="display:flex" align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66)](https://solved.ac/bigpel66)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark)
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66">
+  <img height="180em" src="http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark">
 
 </div>
 
@@ -93,8 +92,12 @@ Since March 16th 2023, I'm focusing on problem solving.
 <br/>
 
 ## 3) GitHub Status
-<img src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true" style="width: 80%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&hide_border=true&layout=compact" style="width: 80%"/>
+<div style="display:flex" align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigpel66&hide_border=true&layout=compact&theme=github_dark">
+
+</div>
 
 <br/>
 
