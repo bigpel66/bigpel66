@@ -26,12 +26,10 @@ Since March 16th 2023, I'm focusing on problem solving.
 	Values of Why more than Anything
 
 ### Want to be a ...
-	Software Developer
-	Server Developer
-	Back-End Developer
-	Cloud Friendly Developer
+	(Software Engineer using C++) || (Backend Engineer near Server)
 
 ### I am a ...
+	Open to Work as a Freshman.
 	Former. Lead Back-End Dev. Oli.
 	Student. Comp-Sci. Korea Univ.
 	3rd-Term Cadet. 42 Seoul.
