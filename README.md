@@ -26,7 +26,7 @@ Since March 16th 2023, I'm focusing on problem solving.
 	Values of Why more than Anything
 
 ### Want to be a ...
-	(Software Engineer using C++) || (Backend Engineer near Server)
+	(Software Engineer using C++) && (Backend Developer near Server)
 
 ### I am a ...
 	Open to Work as a Freshman.
