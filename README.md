@@ -1,7 +1,5 @@
 # BIGPEL a.k.a jseo
 
-I'm opened to work now.
-
 Especially interested in Mobility Industry, I'm currently using C++ more than others.
 
 Since March 16th 2023, I'm focusing on problem solving.
@@ -29,8 +27,8 @@ Since March 16th 2023, I'm focusing on problem solving.
 	(Software Engineer using C++) && (Backend Developer near Server)
 
 ### I am a ...
-	Open to Work as a Freshman.
-	Former. Lead Back-End Dev. Oli.
+	Back-End Dev. Hyundai. AutoEver.
+	Lead Back-End Dev. Oli.
 	Student. Comp-Sci. Korea Univ.
 	3rd-Term Cadet. 42 Seoul.
 
