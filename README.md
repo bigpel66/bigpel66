@@ -27,8 +27,8 @@ Since March 16th 2023, I'm focusing on problem solving.
 	(Software Engineer using C++) && (Backend Developer near Server)
 
 ### I am a ...
-	Back-End Dev. Hyundai. AutoEver.
-	Lead Back-End Dev. Oli.
+	Backend Dev. Hyundai. AutoEver.
+	Lead Backend Dev. Oli.
 	Student. Comp-Sci. Korea Univ.
 	3rd-Term Cadet. 42 Seoul.
 
