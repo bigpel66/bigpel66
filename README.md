@@ -24,7 +24,7 @@ Since March 16th 2023, I'm focusing on problem solving.
 	Values of Why more than Anything
 
 ### Want to be a ...
-	(Software Engineer using C++) && (Backend Developer near Server)
+	(Backend Developer with Container Orchestration) && (Professional Developer on Service Operation)
 
 ### I am a ...
 	Backend Dev. Hyundai. AutoEver.
