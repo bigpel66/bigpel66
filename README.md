@@ -1,6 +1,6 @@
 # BIGPEL a.k.a jseo
 
-Especially interested in Mobility Industry, I'm currently using Java more than others.
+I'm currently using Java more than others.
 
 Since March 16th 2023, I'm focusing on problem solving.
 
