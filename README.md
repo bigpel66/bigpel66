@@ -10,7 +10,7 @@ Since March 16th 2023, I'm focusing on problem solving.
 
 <div style="display:flex" align="center">
 
-  <a href="https://solved.ac/profile/bigpel66" rel="noreferrer noopener" target="_blank">
+  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/bigpel66">
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66">
     <img height="180em" src="http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark">
   </a>
