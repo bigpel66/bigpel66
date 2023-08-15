@@ -46,7 +46,15 @@ introduction will be posted...
 
 <br/>
 
-## 3) GitHub Status
+## 3) Status
+<div style="display:flex" align="center">
+
+  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/bigpel66">
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66">
+    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark">
+  </a>
+
+</div>
 <div style="display:flex" align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bigpel66&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
@@ -57,15 +65,6 @@ introduction will be posted...
 <br/>
 
 <hr/>
-
-<div style="display:flex" align="center">
-
-  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/bigpel66">
-    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66">
-    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark">
-  </a>
-
-</div>
 
 <div style="display:flex" align="center">
 
