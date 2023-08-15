@@ -1,21 +1,6 @@
 # BIGPEL a.k.a jseo
 
-I'm currently using Java more than others.
-
-Since March 16th 2023, I'm focusing on problem solving.
-
-(2023-03-16 ~ 2023-05-10 Programmers / Rating 1800++ 400 problems)
-
-(2023-05-11 ~ ongoing BOJ / Rating 1750++ 500 problems)
-
-<div style="display:flex" align="center">
-
-  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/bigpel66">
-    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66">
-    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark">
-  </a>
-
-</div>
+introduction will be posted...
 
 ## 1) 👋 Good to See You 👋
 ### Aim for ...
@@ -72,6 +57,15 @@ Since March 16th 2023, I'm focusing on problem solving.
 <br/>
 
 <hr/>
+
+<div style="display:flex" align="center">
+
+  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/bigpel66">
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpel66">
+    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=bigpel66&theme=dark">
+  </a>
+
+</div>
 
 <div style="display:flex" align="center">
 
