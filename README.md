@@ -6,7 +6,7 @@ Since March 16th 2023, I'm focusing on problem solving.
 
 (2023-03-16 ~ 2023-05-10 Programmers / Rating 1800++ 400 problems)
 
-(2023-05-11 ~ ongoing BOJ / Rating 1700++ 400 problems)
+(2023-05-11 ~ ongoing BOJ / Rating 1750++ 500 problems)
 
 <div style="display:flex" align="center">
 
