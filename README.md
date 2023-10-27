@@ -1,6 +1,15 @@
 # BIGPEL a.k.a jseo
 
-introduction will be posted...
+I understand RESTful principles to design robust and scalable APIs.
+I understand OOP (Object-Oriented Programming) to write role-based objects.
+
+I can select and use API styles such as RESTAPI, GraphQL, and grRPC according to the situation.
+I can write functional programs for MSA which is based on non-blocking I/O reactor patterns such as WebFlux or Rx.
+
+I have experience leading a Backend team in a startup business and designing project & application architecture for MSA Backend.
+I am interested in Cloud & Container (k8s) as well as DB (SQL) technologies which allow me to effectively handle any problems that may arise while running applications.
+
+Among all those capabilities, the most powerful aspect is my ability to effectively communicate with colleagues and share the ideas I have been considering, thereby enhancing the outcomes.
 
 ## 1) 👋 Good to See You 👋
 ### Aim for ...
