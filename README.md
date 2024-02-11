@@ -32,6 +32,7 @@ Among all those capabilities, the most powerful aspect is my ability to effectiv
 	(Backend Developer with Container Orchestration) && (Professional Developer on Service Operation)
 
 ### I am a ...
+	Platform Engieer. Kakao. Corp.
 	Backend Dev. Hyundai. AutoEver.
 	Lead Backend Dev. Oli.
 	Student. Comp-Sci. Korea Univ.
@@ -40,7 +41,8 @@ Among all those capabilities, the most powerful aspect is my ability to effectiv
 <br/>
 
 ## 2) Skills
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
