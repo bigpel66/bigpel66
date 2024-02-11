@@ -29,7 +29,7 @@ Among all those capabilities, the most powerful aspect is my ability to effectiv
 	Values of Why more than Anything
 
 ### Want to be a ...
-	(Backend Developer with Container Orchestration) && (Professional Developer on Service Operation)
+	(Engineer who always Considers Problems)
 
 ### I am a ...
 	Platform Engieer. Kakao. Corp.
