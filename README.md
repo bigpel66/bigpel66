@@ -2,11 +2,11 @@
 
 BIGPEL/jseo who is a new `Platform Engineer` originated from Backend Developer.
 
-Striving to define `Clean` in a way that may vary depending on the context, and pursuing writing the `Clean` Code accordingly.
+Striving to define `Clean Code` in a way that may vary depending on the context, and pursuing writing the `Clean Code` accordingly.
 
-As a new engineer, trying to focus on the reason why of the phenomenon to find core principles based on `computer science`.
+As a new engineer, trying to focus on the reason why of the phenomenon to find core principles based on `Computer Science`.
 
-Currently, spending time on learning `Python` 3.12+.
+Currently, spending time on learning `Python 3.12+`.
 
 ## 1) 👋 Good to See You 👋
 ### Aim for ...
