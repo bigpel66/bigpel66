@@ -1,24 +1,12 @@
 # BIGPEL a.k.a jseo
 
-<div>
-I understand RESTful principles to design robust and scalable APIs.
+BIGPEL/jseo who is a new `Platform Engineer` originated from Backend Developer.
 
-I understand OOP (Object-Oriented Programming) to write role-based objects.
-</div>
+Striving to define `Clean` in a way that may vary depending on the context, and pursuing writing the `Clean` Code accordingly.
 
-<div>
-I can select and use API styles such as RESTAPI, GraphQL, and grRPC according to the situation.
+As a new engineer, trying to focus on the reason why of the phenomenon to find core principles based on `computer science`.
 
-I can write functional programs for MSA which is based on non-blocking I/O reactor patterns such as WebFlux or Rx.
-</div>
-
-<div>
-I have experience leading a Backend team in a startup business and designing project & application architecture for MSA Backend.
-
-I am interested in Cloud & Container (k8s) as well as DB (SQL) technologies which allow me to effectively handle any problems that may arise while running applications.
-</div>
-
-Among all those capabilities, the most powerful aspect is my ability to effectively communicate with colleagues and share the ideas I have been considering, thereby enhancing the outcomes.
+Currently, spending time on learning `Python` 3.12+.
 
 ## 1) 👋 Good to See You 👋
 ### Aim for ...
@@ -41,8 +29,12 @@ Among all those capabilities, the most powerful aspect is my ability to effectiv
 <br/>
 
 ## 2) Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
