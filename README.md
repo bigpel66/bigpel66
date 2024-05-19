@@ -8,18 +8,6 @@ As a new engineer, trying to focus on the reason why of the phenomenon to find c
 
 Currently, spending time on learning `Python 3.12+`.
 
-## 1) 👋 Good to See You 👋
-### Aim for ...
-	Clean Code
-	Readable Code
-	Object-Clear Code
-	Well-Structured Code
-	Values of Why more than Anything
-
-### Want to be a ...
-	(Engineer who always Considers Problems)
-
-### I am a ...
 	Platform Engieer. Kakao Corp.
 	Backend Dev. Hyundai. AutoEver.
 	Lead Backend Dev. Oli.
@@ -28,7 +16,6 @@ Currently, spending time on learning `Python 3.12+`.
 
 <br/>
 
-## 2) Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -46,7 +33,6 @@ Currently, spending time on learning `Python 3.12+`.
 
 <br/>
 
-## 3) Status
 <div style="display:flex" align="center">
 
   <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/bigpel66">
